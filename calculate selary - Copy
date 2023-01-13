@@ -1,0 +1,27 @@
+#include<stdio.h>
+void main()
+{
+    int a;
+    char c;
+    printf("enter the qualification= for ungradution and p for post gradution");
+    sacnf("%c".&c);
+    printf("enter the year");
+    scanf("%d",&a);
+    if( b>10&&a=='p')
+    {
+        printf("your salary is-75000");
+    }
+    else if(b>10&&a=='u')
+    {
+        printf("your salary is-55000");
+        
+    }
+    else if(b<10=='v')
+    {
+        printf("your salary is-45000");
+    }
+    else
+    {
+        ("not job");
+    }
+}
